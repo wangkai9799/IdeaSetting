@@ -1,0 +1,7 @@
+<templateSet group="Android">
+  <template name="///" value="/** $END$ */" shortcut="SPACE" description="快速创建一个/**  */类型的注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
